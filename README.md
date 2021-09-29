@@ -16,5 +16,5 @@ Step 4: Used Neural Networks
 
 Step 5: Created webapp to deploy on heroku
 
-(could'nt deployed there because of memory shortage in free heroku account)
+
 
