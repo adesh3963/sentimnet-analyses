@@ -14,7 +14,7 @@ Step 3: Used classic ML algo
 
 Step 4: Used Neural Networks
 
-Step 5: Created webapp to deploy on heroku
+Step 5: Created webpage using django
 
 
 
